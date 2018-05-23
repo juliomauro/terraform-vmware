@@ -1,0 +1,6 @@
+provider "vsphere" {
+  # ENV['VSPHERE_USER']
+  # ENV['VSPHERE_PASSWORD']
+  # ENV['VSPHERE_SERVER']
+  # ENV['VSPHERE_ALLOW_UNVERIFIED_SSL']
+}
